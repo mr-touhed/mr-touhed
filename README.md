@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://touhed-islam.web.app](https://touhed-islam.web.app)
 
-- 💬 Ask me about **html,css3,js,react,express,mongoDb**
+- 💬 Ask me about **html,css3,js,react Js,express Js,mongoDb**
 
 - 📫 How to reach me **mr.touhed.i@gmail.com**
 
